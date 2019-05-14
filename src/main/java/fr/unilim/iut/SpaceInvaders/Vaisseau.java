@@ -19,12 +19,27 @@ public class Vaisseau {
     }
 	
     public boolean occupeLaPosition(int x, int y) {
-	     if ((this.x<=abcisseLaPlusAGauche()) && (x<=abscisseLaPlusADroite())) 
-		      if ( (this.y-this.hauteur+1<=y) && (y<=this.y))
-			  return true;
+	     if (estAbscisseCouverte(x) && estOrdoneeCouverte(y))
+			return true;
 		
 	     return false;
     }
+
+	private boolean estOrdoneeCouverte(int y) {
+		return (ordoneeLaPlusHaute()<=y) && (y<=ordoneeLaPlusBasse());
+	}
+
+	private int ordoneeLaPlusBasse() {
+		return this.y;
+	}
+
+	private int ordoneeLaPlusHaute() {
+		return ordoneeLaPlusBasse()-this.hauteur+1;
+	}
+
+	private boolean estAbscisseCouverte(int x) {
+		return (this.x<=abcisseLaPlusAGauche()) && (x<=abscisseLaPlusADroite());
+	}
 
 	private int abscisseLaPlusADroite() {
 		return this.x+this.longueur-1;
