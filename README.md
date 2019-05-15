@@ -12,3 +12,15 @@ Quelques problèmes ont cependant été rencontrés :
 ![Nuage de mots](https://user-images.githubusercontent.com/49199936/57296457-58af4980-70cd-11e9-9983-39a596b5c53f.png)
 
 ---
+
+# Semaine du 06/05/2019 au 13/05/2019
+
+Réalisation de la fin de la fonctionnalité 1 et des deux premières étapees de la fonctionnailté. On notera cependant une erreur dans le code de la fonctionnalité n°2 qui pose problème pour les tests
+
+## Diagramme de classe
+![Diagramme de classe](https://user-images.githubusercontent.com/49199936/57770921-b0733380-7711-11e9-9942-b4208f7e9b28.png)
+
+## Nuage de mots
+https://user-images.githubusercontent.com/49199936/57770921-b0733380-7711-11e9-9942-b4208f7e9b28.png
+
+---
