@@ -21,6 +21,6 @@ Réalisation de la fin de la fonctionnalité 1 et des deux premières étapees d
 ![Diagramme de classe](https://user-images.githubusercontent.com/49199936/57770921-b0733380-7711-11e9-9942-b4208f7e9b28.png)
 
 ## Nuage de mots
-![Nuage de mots](https://user-images.githubusercontent.com/49199936/57770921-b0733380-7711-11e9-9942-b4208f7e9b28.png)
+![Nuage de mots](https://user-images.githubusercontent.com/49199936/57770951-bf59e600-7711-11e9-8f01-d19bb8cbb857.png)
 
 ---
