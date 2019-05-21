@@ -1,4 +1,4 @@
-package fr.unilim.iut.SpaceInvaders;
+package fr.unilim.iut.SpaceInvaders.model;
 
 public class Constante {
    public static final int ESPACEJEU_LONGUEUR = 1500;
