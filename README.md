@@ -13,7 +13,7 @@ Quelques problèmes ont cependant été rencontrés :
 
 ---
 
-# Semaine du 06/05/2019 au 13/05/2019
+# Semaine du 06/05/2019 au 12/05/2019
 
 Réalisation de la fin de la fonctionnalité 1 et des deux premières étapees de la fonctionnalité suivante. On notera cependant une erreur dans le code de la fonctionnalité n°2 qui pose problème pour les tests
 
@@ -22,5 +22,21 @@ Réalisation de la fin de la fonctionnalité 1 et des deux premières étapees d
 
 ## Nuage de mots
 ![Nuage de mots](https://user-images.githubusercontent.com/49199936/57770951-bf59e600-7711-11e9-8f01-d19bb8cbb857.png)
+
+---
+
+# Semaine du 13/05/2019 au 19/05/2019
+
+- Fin de la fonctionnalité 2 (Stories 3 : Déplacer un vaisseau vers la droite en tenant compte de sa dimension et 4 : Déplacer un vaisseau vers la gauche en tenant compte de sa dimension).
+- Correction des problèmes de la scéance précédante
+- Mise en place du moteur de jeu Spike.
+- Réalisation de la fonctionnalité 3 (Stories 1 : Ajouter le paramètre vitesse au vaisseau, 2 : Régler la vitesse du vaisseau, 3 : Empécher le vaisseau de dépasser la limite de l'écran)
+Malgré quelques difficultés dans l'implémentation du moteur graphique, je n'ai pas eu de particulière difficulté à programmer ces fonctionnalités.
+
+## Diagramme de classe
+![Diagramme de classe](https://user-images.githubusercontent.com/49199936/58098886-c170e880-7bda-11e9-8b52-f5b5e1beea48.png)
+
+## Nuage de mots
+![Nuage de mots](https://user-images.githubusercontent.com/49199936/58098952-e2393e00-7bda-11e9-8beb-e14731875f12.png)
 
 ---
