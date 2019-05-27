@@ -40,3 +40,20 @@ Malgré quelques difficultés dans l'implémentation du moteur graphique, je n'a
 ![Nuage de mots](https://user-images.githubusercontent.com/49199936/58098952-e2393e00-7bda-11e9-8beb-e14731875f12.png)
 
 ---
+
+# Semaine du 20/05/2019 au 26/05/2019
+
+* Réalisation de la fonctionnalité 4
+ - Story 1 : Ajout et implémentation de la classe Sprite.
+ - Story 2 : Programmation du tir de missile.
+ - Story 3 : Mettre en place le moteur graphiqueet l'interraction avec l'utilisateur
+ - Story 4 : Programmer le déplacement du missile
+* Réalisation de la fonctionnalité 5
+ - Story 1 : Ajout de la classe sprite et positionnement du vaisseau.
+ - Story 2 : Implémentation du déplacement du vaisseau (en cours)
+ 
+ ## Diagramme de Classe
+ ![Diagramme de Classe](https://user-images.githubusercontent.com/49199936/58416788-05ed0000-8083-11e9-8bb0-1f19ff68c08f.png)
+ 
+ ## Nuage de mots
+ ![Nuage de mots](https://user-images.githubusercontent.com/49199936/58416827-2ae17300-8083-11e9-8c75-5dd6cd3b6bdb.png)
