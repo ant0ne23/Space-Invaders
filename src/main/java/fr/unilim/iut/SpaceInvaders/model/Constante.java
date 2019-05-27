@@ -15,4 +15,5 @@ public class Constante {
    public static final int MISSILE_LONGUEUR = 7;
    public static final int MISSILE_HAUTEUR = 30;
    public static final int MISSILE_VITESSE = 20;
+public static final char MARQUE_ENVAHISSEUR = 'E';
 }
