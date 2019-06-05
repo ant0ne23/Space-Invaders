@@ -57,3 +57,10 @@ Malgré quelques difficultés dans l'implémentation du moteur graphique, je n'a
  
  ## Nuage de mots
  ![Nuage de mots](https://user-images.githubusercontent.com/49199936/58416827-2ae17300-8083-11e9-8c75-5dd6cd3b6bdb.png)
+ 
+ ---
+ 
+ # Semaine du 27/05/2019 au 03/06/2019
+ 
+ * Fin de la fonctionnalité 5
+  - Story 2 : Implémentation du déplacement
