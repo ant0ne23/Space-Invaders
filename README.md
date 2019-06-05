@@ -46,7 +46,7 @@ Malgré quelques difficultés dans l'implémentation du moteur graphique, je n'a
 * Réalisation de la fonctionnalité 4
  - Story 1 : Ajout et implémentation de la classe Sprite.
  - Story 2 : Programmation du tir de missile.
- - Story 3 : Mettre en place le moteur graphiqueet l'interraction avec l'utilisateur
+ - Story 3 : Mettre en place le moteur graphique et l'interraction avec l'utilisateur
  - Story 4 : Programmer le déplacement du missile
 * Réalisation de la fonctionnalité 5
  - Story 1 : Ajout de la classe sprite et positionnement du vaisseau.
@@ -64,3 +64,13 @@ Malgré quelques difficultés dans l'implémentation du moteur graphique, je n'a
  
  * Fin de la fonctionnalité 5
   - Story 2 : Implémentation du déplacement
+  - Story 3 : Mettre en place le moteur graphique et l'interraction avec l'utilisateur
+  - Story 4 : Programmer le déplacement de l'envahisseur
+ * Fonctionnalité 6
+  - Story 1 : Début d'implémentation de la classe collision
+  
+ ## Diagramme de Classe
+ ![Diagramme de Classe](![Diagramme de Classe](https://user-images.githubusercontent.com/49199936/58416788-05ed0000-8083-11e9-8bb0-1f19ff68c08f.png))
+ 
+ ## Nuage de mots
+ ![Nuage de mots](https://user-images.githubusercontent.com/49199936/58979509-81ab2300-87ce-11e9-93ea-d62148ccfe47.png)  
